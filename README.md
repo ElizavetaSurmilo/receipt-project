@@ -1,0 +1,2 @@
+# receipt-project
+Creating receipts
